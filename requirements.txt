@@ -1,0 +1,21 @@
+Here’s the `requirements.txt` file for your project:
+
+```plaintext install dependencies
+
+pip install selenium==4.15.2
+```
+And Install ChromeDriver
+
+### Explanation:
+- **Selenium**: The only required dependency for this project. It is used to automate the browser interactions with Drawaria.
+
+---
+
+### How to Use:
+1. Save the above content in a file named `requirements.txt`.
+2. Install the dependencies by running:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+This will ensure you have the correct version of Selenium installed to run the Drawaria Spam Bots script.
